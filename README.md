@@ -56,9 +56,7 @@ Image_Classifier/
 
 ├── requirements.txt
 
-├── README.md
-
-└── notebooks/
+└── README.md
 
 ## Installation
 
